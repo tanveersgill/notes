@@ -1,76 +1,124 @@
 {
   "main": {
-    "id": "d6a24643e001f118",
+    "id": "a6693e45457941ea",
     "type": "split",
     "children": [
       {
-        "id": "b1b60431a6c035c0",
+        "id": "4f2e098dfb30e8e4",
         "type": "tabs",
         "children": [
           {
-            "id": "12537c06c8c4e21f",
+            "id": "35bc766561d0235c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. an intro to FPGAs, LUTs, and the like.md",
+                "file": "diodes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4508b1e740166a40",
+            "id": "1ea8b7490cd9ce45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. combinational logic circuits + design.md",
+                "file": "transistors.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8cef8095512d686c",
+            "id": "c38233a484b9961f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. combinational logic circuits + design.md",
+                "file": "capacitors.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a07560cc43dbdc43",
+            "id": "8f11f2f1a64001b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transistors (MOSFET).md",
+                "file": "resistors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce2d94d2c57721b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. charge, current, voltage, power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75456b29c805e17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. charge, current, voltage, power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f3bd5c22a51b791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. charge, current, voltage, power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d93ae976b1e2c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. linear vs nonlinear circuits?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f9a013f7959ad234",
+    "id": "950a6503e0522fbf",
     "type": "split",
     "children": [
       {
-        "id": "55326ab31054290e",
+        "id": "28a36a910454e1e8",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa415f2e56960f8",
+            "id": "005346d7c21ed907",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +128,7 @@
             }
           },
           {
-            "id": "63469d937ea7a768",
+            "id": "b01c87e51af99aca",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +143,7 @@
             }
           },
           {
-            "id": "4f37e93c3af6a620",
+            "id": "2e297f5c18bf27a7",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -106,23 +154,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "cbcfa99fb1679793",
+    "id": "c20bd1a4e2ed2df0",
     "type": "split",
     "children": [
       {
-        "id": "d527769f0c7bbcbf",
+        "id": "8ae944eec6224f34",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f5a645dd1d13ab",
+            "id": "ff1c46d113fabdfc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transistors (MOSFET).md",
+                "file": "0. linear vs nonlinear circuits?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +182,19 @@
             }
           },
           {
-            "id": "b1c09854e062a1f3",
+            "id": "02a670171212e299",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transistors (MOSFET).md",
+                "file": "0. linear vs nonlinear circuits?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "844e8d218e31306a",
+            "id": "0e35092085b05dd0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +205,12 @@
             }
           },
           {
-            "id": "3a97dd599c65488c",
+            "id": "c3dc33a7e3428d9e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "transistors (MOSFET).md"
+                "file": "0. linear vs nonlinear circuits?.md"
               }
             }
           }
@@ -183,16 +231,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07560cc43dbdc43",
+  "active": "8d93ae976b1e2c8b",
   "lastOpenFiles": [
-    "diodes.md",
-    "transistors (MOSFET).md",
-    "2. combinational logic circuits + design.md",
-    "3. sequential logic design.md",
-    "1. an intro to FPGAs, LUTs, and the like.md",
-    "static",
-    "the FPGA design flow.md",
-    "static/Screenshot 2023-04-14 at 9.13.41 PM.png",
-    "static/Pasted image 20230414164655.png"
+    "transistors.md",
+    "1. charge, current, voltage, power.md",
+    "1.1. electromagnetic field.md",
+    "0. linear vs nonlinear circuits?.md",
+    "1.01. side note.md",
+    "readme.md",
+    "capacitors.md",
+    "resistors.md",
+    "diodes.md"
   ]
 }
