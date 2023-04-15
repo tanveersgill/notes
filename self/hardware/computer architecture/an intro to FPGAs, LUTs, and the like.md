@@ -1,0 +1,46 @@
+<details>
+<summary>**FPGAs**</summary>
+<br>
+ - *field programmable gate arrays*
+</details>
+ - they are highly ***flexible***, unlike microcontrollers, which come programmed to some extent out-of-the-box
+	 - can think of them as a chip that essentially does ***nothing***; all functionality is up to you
+- ***digital***, not analog
+
+**architecture**
+- at a basic level, **2** main building blocks:
+1. ***LUTs / Look Up Tables*** (part of CLBs/configurable logic blocks)
+	- these are the *functional* components; we get to decide what function they serve
+2. ***Switches*** 
+	- determine how the LUTs are connected to one another
+		- in terms of their inputs and outputs
+
+**multiplexers (MUX)**
+	- logic devices that consist of:
+		1. 2^**n** data inputs
+		2. **n** select inputs
+		3. **1** output
+		![[Pasted image 20230414164655.png]]
+		- ^ a 4x1 multiplexer
+
+**LUTs**
+- when we speak of programming an FPGA, chances are we're talking about programming a LUT
+- it essentially is a **multiplexer**
+	- its **data inputs** are a series of 2^n addresses
+	- the **select input** is n bits
+	- output is a single bit
+- in this case, the job of the multiplexer is to pick one data input that corresponds to the select input
+	***example:***
+	*given 3 bits for select, implementing a function that outputs 1 for when there is multiple 1s in the select, else 0*
+	![[Screenshot 2023-04-14 at 9.13.41 PM.png]]
+	- we can configure the addresses to contain 1s or 0s based on the desired output, and then to compare it with the select, implementation is up to us:
+		- AND reduction or OR reduction, perhaps
+		- ( ***++how?*** )
+
+***implementing more complex functions***
+- we're not restricted to using a single lookup table!
+	- the whole point of an FPGA is to have a ton of these interconnected with ***switches***
+
+> what i wrote above was a 3-bit LUT;
+> modern FPGAs tend to use 6-bit LUTs, or ***6-LUTs*** (hehe)
+
