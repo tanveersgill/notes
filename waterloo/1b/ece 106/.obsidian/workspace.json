@@ -1,136 +1,184 @@
 {
   "main": {
-    "id": "a6693e45457941ea",
+    "id": "5f820849a29d0a0d",
     "type": "split",
     "children": [
       {
-        "id": "4f2e098dfb30e8e4",
+        "id": "f5d4e723db584a99",
         "type": "tabs",
         "children": [
           {
-            "id": "35bc766561d0235c",
+            "id": "03fbf711c8c334f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diodes.md",
+                "file": "1. review.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ea8b7490cd9ce45",
+            "id": "018b3ebe6c637faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transistors.md",
+                "file": "2.1 & 2.2 electrostatics & conservation of charge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c38233a484b9961f",
+            "id": "2c4a8b0b9124289f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capacitors.md",
+                "file": "1. review.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f11f2f1a64001b4",
+            "id": "0f5168db3e900eb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resistors.md",
+                "file": "1.6 cartesian coordinates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ce2d94d2c57721b5",
+            "id": "89fef330a4886930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. charge, current, voltage, power.md",
+                "file": "1.8 cylindrical coordinates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "75456b29c805e17c",
+            "id": "b66ddd72a593190d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. charge, current, voltage, power.md",
+                "file": "1.7 polar coordinates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f3bd5c22a51b791",
+            "id": "fef99e352cba18c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. charge, current, voltage, power.md",
+                "file": "1.7 polar coordinates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d93ae976b1e2c8b",
+            "id": "b7e7903174ef0e28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. charge, current, voltage, power.md",
+                "file": "3.1 & 3.2 intro to electric fields & definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "68274cbdbc2e523c",
+            "id": "045f8b65cbe4fcdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. charge, current, voltage, power.md",
+                "file": "3.1 & 3.2 intro to electric fields & definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60c2067d2488c7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.4 visualizing electric fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d2324f9576949f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.4 visualizing electric fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb6df90ce7fa124c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.1 charge density (distributed charges).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5865d76fc4ffc861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.2 e-field calculations with distributed charges.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "950a6503e0522fbf",
+    "id": "d3c20b2907491709",
     "type": "split",
     "children": [
       {
-        "id": "28a36a910454e1e8",
+        "id": "eb29aede1bdc315e",
         "type": "tabs",
         "children": [
           {
-            "id": "005346d7c21ed907",
+            "id": "010ef93885ceba73",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -140,7 +188,7 @@
             }
           },
           {
-            "id": "b01c87e51af99aca",
+            "id": "742ed1ac28ab3792",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -155,7 +203,7 @@
             }
           },
           {
-            "id": "2e297f5c18bf27a7",
+            "id": "b5140c5a6fab24fb",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -166,23 +214,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "c20bd1a4e2ed2df0",
+    "id": "5ab7ca09c64ae9bf",
     "type": "split",
     "children": [
       {
-        "id": "8ae944eec6224f34",
+        "id": "d09d8c000c39ce6d",
         "type": "tabs",
         "children": [
           {
-            "id": "ff1c46d113fabdfc",
+            "id": "d9ce741d2f893d7d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. charge, current, voltage, power.md",
+                "file": "1.7 polar coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,19 +243,19 @@
             }
           },
           {
-            "id": "02a670171212e299",
+            "id": "8dd6fe1588735496",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. charge, current, voltage, power.md",
+                "file": "1.7 polar coordinates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0e35092085b05dd0",
+            "id": "beaa07c741e711b6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -217,12 +266,12 @@
             }
           },
           {
-            "id": "c3dc33a7e3428d9e",
+            "id": "eda163b94a19cc85",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. charge, current, voltage, power.md"
+                "file": "1.7 polar coordinates.md"
               }
             }
           }
@@ -243,18 +292,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68274cbdbc2e523c",
+  "active": "fef99e352cba18c7",
   "lastOpenFiles": [
-    "1.01. electromagnetic field.md",
-    "0. linear vs nonlinear circuits?.md",
-    "1. charge, current, voltage, power.md",
-    "! formula sheet.md",
-    "Untitled.md",
-    "capacitors.md",
-    "diodes.md",
-    "transistors.md",
-    "1.01. side note.md",
-    "readme.md",
-    "resistors.md"
+    "4.2 e-field calculations with distributed charges.md",
+    "electric flux + gauss' law.md",
+    "2.4 & 2.5 coulomb's law & its limitations.md",
+    "3.1 & 3.2 intro to electric fields & definition.md",
+    "3.4 visualizing electric fields.md",
+    "4.1 charge density (distributed charges).md",
+    "2.3 quantization of charge.md",
+    "2.1 & 2.2 electrostatics & conservation of charge.md",
+    "1.7 polar coordinates.md",
+    "1.6 cartesian coordinates.md",
+    "1.8 cylindrical coordinates.md",
+    "1.9 spherical coordinates.md",
+    "1. review.md",
+    "formula sheet.md",
+    "2.2. conservation of charge.md",
+    "Untitled/Untitled.md",
+    "Untitled"
   ]
 }

@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "2783cc9df5d20dc7",
+    "id": "4a4b0005e75e0482",
     "type": "split",
     "children": [
       {
-        "id": "3f5fc725e28a0967",
+        "id": "adf09637c91a27f7",
         "type": "tabs",
         "children": [
           {
-            "id": "91ed1fa6e8d2a5c2",
+            "id": "0f8eab118d977af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multivariable (scalar) calculus/partial derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31340f14202c5732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multivariable (scalar) calculus/partial derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfab2b4567ebdcb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cef025aa277e7fe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md",
+                "file": "4.1 backpropagation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "91421291f5e1b43c",
+    "id": "1bd0b8c4f15b8e90",
     "type": "split",
     "children": [
       {
-        "id": "b5600adfbd71b915",
+        "id": "263f97b215849ded",
         "type": "tabs",
         "children": [
           {
-            "id": "98d15c5f422462be",
+            "id": "fe73f30926890721",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "35ea583af2f629ff",
+            "id": "34cac2e284c08f12",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "1aea77720dc85992",
+            "id": "b3276eee57bf6239",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -106,23 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "e767c9b3119d0045",
+    "id": "127824aba2bac6e4",
     "type": "split",
     "children": [
       {
-        "id": "df6da9697d484a1d",
+        "id": "b93e8eca1d79f4da",
         "type": "tabs",
         "children": [
           {
-            "id": "d384590198ac7b53",
+            "id": "b7e4e7449c4fd35f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md",
+                "file": "4.1 backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +98,19 @@
             }
           },
           {
-            "id": "5b67282f5420bbca",
+            "id": "2f61ac08809e0298",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md",
+                "file": "4.1 backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0396d8e59b7fbc02",
+            "id": "5149f8213ea2a8e1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +121,12 @@
             }
           },
           {
-            "id": "8926231421924d5b",
+            "id": "94ebff668865f14c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md"
+                "file": "4.1 backpropagation.md"
               }
             }
           }
@@ -183,26 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cef025aa277e7fe1",
+  "active": "fe73f30926890721",
   "lastOpenFiles": [
-    "linear algebra/a review of vector algebra.md",
-    "linear algebra",
-    "a review of vector algebra.md",
-    "vector calculus/gradient.md",
-    "gradient.md",
-    "linear (vector) algebra/linear (vector) algebra/a review of vector algebra.md",
-    "linear (vector) algebra/linear (vector) algebra",
-    "multivariable (scalar) calculus/vector fields.md",
-    "multivariable (scalar) calculus/gradient + directional derivatives.md",
-    "multivariable (scalar) calculus/partial derivatives.md",
-    "vector calculus/differential/gradient.md",
-    "multivariable (scalar) calculus/parametric functions.md",
-    "linear (vector) algebra/a review of vector algebra.md",
-    "differential vector calculus/Untitled.md",
-    "vector calculus/integral",
-    "vector calculus/differential",
-    "linear (vector) algebra",
-    "multivariable (scalar) calculus",
-    "vector calculus"
+    "4. backpropagation background.md",
+    "4.1 backpropagation.md",
+    "5. convolutional neural networks.md",
+    "Screenshot 2023-04-25 at 2.48.31 AM.png",
+    "z. error functions.md",
+    "3. implementing in code?.md",
+    "2.1 gradient descent with weights + biases.md",
+    "2. digit recognition.md",
+    "2.2 stochastic gradient descent.md",
+    "1. intro.md",
+    "0. some side notes.md"
   ]
 }

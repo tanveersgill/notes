@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "2783cc9df5d20dc7",
+    "id": "9ecca076567932ba",
     "type": "split",
     "children": [
       {
-        "id": "3f5fc725e28a0967",
+        "id": "6129acb04386ae54",
         "type": "tabs",
         "children": [
           {
-            "id": "91ed1fa6e8d2a5c2",
+            "id": "ccea4603900a7a82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multivariable (scalar) calculus/partial derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31340f14202c5732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multivariable (scalar) calculus/partial derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfab2b4567ebdcb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cef025aa277e7fe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "91421291f5e1b43c",
+    "id": "eb1776b75cdfac35",
     "type": "split",
     "children": [
       {
-        "id": "b5600adfbd71b915",
+        "id": "988c967b2c93babe",
         "type": "tabs",
         "children": [
           {
-            "id": "98d15c5f422462be",
+            "id": "1cfa705a1c916386",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "35ea583af2f629ff",
+            "id": "206ce5ebf7a5c19d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "1aea77720dc85992",
+            "id": "4768a6c17584ff6b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -106,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "e767c9b3119d0045",
+    "id": "0022080f8b59685a",
     "type": "split",
     "children": [
       {
-        "id": "df6da9697d484a1d",
+        "id": "bd7ce4ebb83dfa2b",
         "type": "tabs",
         "children": [
           {
-            "id": "d384590198ac7b53",
+            "id": "8915ccb3a23f21de",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +97,19 @@
             }
           },
           {
-            "id": "5b67282f5420bbca",
+            "id": "5e9f21e1b1d044a0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0396d8e59b7fbc02",
+            "id": "76b983311ee11a45",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +120,12 @@
             }
           },
           {
-            "id": "8926231421924d5b",
+            "id": "4c9de93bce3a5482",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "multivariable (scalar) calculus/gradient + directional derivatives.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -183,26 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cef025aa277e7fe1",
+  "active": "ccea4603900a7a82",
   "lastOpenFiles": [
-    "linear algebra/a review of vector algebra.md",
-    "linear algebra",
-    "a review of vector algebra.md",
-    "vector calculus/gradient.md",
-    "gradient.md",
-    "linear (vector) algebra/linear (vector) algebra/a review of vector algebra.md",
-    "linear (vector) algebra/linear (vector) algebra",
-    "multivariable (scalar) calculus/vector fields.md",
-    "multivariable (scalar) calculus/gradient + directional derivatives.md",
-    "multivariable (scalar) calculus/partial derivatives.md",
-    "vector calculus/differential/gradient.md",
-    "multivariable (scalar) calculus/parametric functions.md",
-    "linear (vector) algebra/a review of vector algebra.md",
-    "differential vector calculus/Untitled.md",
-    "vector calculus/integral",
-    "vector calculus/differential",
-    "linear (vector) algebra",
-    "multivariable (scalar) calculus",
-    "vector calculus"
+    "Untitled.md"
   ]
 }
